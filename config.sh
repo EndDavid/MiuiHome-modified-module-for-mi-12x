@@ -1,0 +1,1 @@
+replace=/system/priv-app/MiuiHome
